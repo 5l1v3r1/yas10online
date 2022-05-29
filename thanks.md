@@ -1,300 +1,73 @@
-@if (@CodeSection == @Batch) @then
-
-
-@echo off
-
-set SendKeys=CScript //nologo //E:JScript "%~F0"
-
-
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-timeout /t 6
-START msedge --new-window  "https://blockaway.net"
-timeout /t 6
-%SendKeys% "https://www.twitch.tv/yas6line{ENTER}"
-
-
-goto :EOF
-
-@end
-
-
-
-
-// JScript section
-
-var WshShell = WScript.CreateObject("WScript.Shell");
-WshShell.SendKeys(WScript.Arguments(0));	
+185.14.194.206:8085
+94.231.217.217:8085
+193.200.12.171:8085
+193.151.191.67:8085
+77.83.25.105:8085
+46.161.56.92:8085
+193.151.191.32:8085
+193.187.92.220:8085
+193.202.15.38:8085
+193.163.207.137:8085
+146.19.90.167:8085
+193.233.249.143:8085
+193.202.8.207:8085
+193.202.13.19:8085
+109.94.173.230:8085
+77.83.26.223:8085
+146.19.91.135:8085
+109.236.54.236:8085
+193.202.87.54:8085
+193.202.8.11:8085
+185.212.115.104:8085
+146.19.90.215:8085
+45.140.204.45:8085
+178.20.215.199:8085
+109.94.221.24:8085
+193.163.207.252:8085
+193.202.84.233:8085
+85.239.51.94:8085
+193.200.12.216:8085
+193.202.8.102:8085
+109.236.53.143:8085
+77.83.24.183:8085
+85.239.48.214:8085
+77.83.25.80:8085
+178.20.213.47:8085
+194.104.128.183:8085
+94.231.218.240:8085
+193.233.250.166:8085
+193.151.190.17:8085
+193.202.87.154:8085
+193.233.251.126:8085
+185.212.115.30:8085
+45.140.204.31:8085
+85.239.49.73:8085
+146.185.206.162:8085
+193.163.207.43:8085
+193.151.191.140:8085
+194.104.128.202:8085
+193.187.92.64:8085
+193.187.92.77:8085
+193.202.84.118:8085
+45.140.205.168:8085
+193.233.248.29:8085
+193.187.92.225:8085
+94.231.218.178:8085
+193.163.207.203:8085
+109.94.173.100:8085
+193.233.250.41:8085
+45.140.205.248:8085
+178.20.214.44:8085
+193.202.8.173:8085
+109.94.173.198:8085
+46.161.58.168:8085
+146.19.90.31:8085
+178.20.213.185:8085
+37.72.141.140:8085
+193.202.86.13:8085
+85.239.49.26:8085
+193.202.13.223:8085
+193.163.207.163:8085
+46.161.59.250:8085
+193.200.13.75:8085
+146.185.206.249:8085
